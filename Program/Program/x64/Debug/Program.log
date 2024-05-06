@@ -1,0 +1,4 @@
+﻿  Task2.cpp
+C:\Cstm\.PSTU_works\.Inf\Labs\OOP\Lab_OOP_13\Program\Program\Task2.cpp(139,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Cstm\.PSTU_works\.Inf\Labs\OOP\Lab_OOP_13\Program\Program\Task2.cpp(139,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Program.vcxproj -> C:\Cstm\.PSTU_works\.Inf\Labs\OOP\Lab_OOP_13\Program\x64\Debug\Program.exe
